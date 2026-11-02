@@ -1,0 +1,15 @@
+{
+  "account": "adic-JXL",
+  "as_of": "2026-11-02",
+  "metric": "GitHub Linguist bytes; public non-fork source repositories; profile repository excluded",
+  "repositories": {
+    "adic-JXL/Poo-FinalProject": {
+      "GDScript": 440453,
+      "CSS": 15071,
+      "HTML": 9887,
+      "GDShader": 4807,
+      "JavaScript": 4539
+    }
+  },
+  "total_bytes": 474757
+}

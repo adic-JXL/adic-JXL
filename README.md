@@ -1,93 +1,65 @@
-<h1 align="center">👾 Andres Issa</h1>
-
 <p align="center">
-  <strong>BACKEND DEVELOPER · WEB & APPS · GAME DEV</strong>
+  <img src="assets/header.gif" width="100%" alt="Andres Issa · Backend, apps y videojuegos · adic-JXL. Cabecera animada con números binarios y una piña pixelada." />
 </p>
 
 <p align="center">
-  <code>adic-JXL</code> · <code>build · debug · play</code>
+  <strong>Andres Issa</strong> · <code>adic-JXL</code><br />
+  Backend en Pineapple Engine · Ingeniería en Sistemas, 4.º semestre
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=39FF14" alt="Python" />
-  <img src="https://img.shields.io/badge/Flet-0D1117?style=for-the-badge&logoColor=39FF14" alt="Flet" />
-  <img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=39FF14" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logoColor=39FF14" alt="Java" />
-  <img src="https://img.shields.io/badge/Godot-0D1117?style=for-the-badge&logo=godotengine&logoColor=39FF14" alt="Godot" />
+  <a href="#player-file">Español</a> · <a href="#english">English</a> · <a href="https://github.com/adic-JXL?tab=repositories">Repositorios ↗</a>
 </p>
 
----
+<a id="player-file"></a>
 
-## > whoami
+## <img src="assets/title-about.png" width="100%" alt="01 — Player file / Sobre mí" />
 
-¡Hola! Soy **Andres Issa**, estudiante de **Ingeniería en Sistemas**
-en cuarto semestre.
+Soy **Andres Issa**. Estoy en cuarto semestre de **Ingeniería en Sistemas** y desarrollo páginas web y aplicaciones digitales.
 
-Desarrollo páginas web y aplicaciones digitales, con especial dominio
-de **Python y Flet**. También trabajo con **MySQL, HTML, CSS y Java**.
+Mi fuerte es **Python**, especialmente **Flet**. También trabajo con **MySQL, Java, HTML y CSS**. En **Pineapple Engine**, nuestro grupo de desarrollo de videojuegos, me encargo del **backend**. Y en mis proyectos personales hago juegos con **Godot**.
 
-🍍 Formo parte de **Pineapple Engine**, un grupo de desarrolladores
-de videojuegos, donde me encargo de toda la parte **backend**.
+> Python + Flet para las apps. Godot para mis proyectos de videojuegos.
 
-🎮 En mis proyectos personales desarrollo juegos con **Godot**.
+## <img src="assets/title-stack.png" width="100%" alt="02 — Loadout / Tecnologías" />
 
-## > tech_stack
+<img src="assets/loadout.png" width="100%" alt="Mi stack: Python, Flet, MySQL, Java, HTML, CSS, Godot y GDScript." />
 
-| Área / Area | Tecnologías / Technologies |
-| :--- | :--- |
-| Lenguajes / Languages | Python · Java |
-| Aplicaciones / Applications | Flet |
-| Bases de datos / Databases | MySQL |
-| Web | HTML · CSS |
-| Videojuegos / Game development | Godot · GDScript |
+## <img src="assets/title-stats.png" width="100%" alt="03 — Code stats / Gráfica de lenguajes" />
 
-## > party_members
+<img src="assets/languages.png" width="100%" alt="Distribución del código público por bytes: GDScript 92.77%, CSS 3.17%, HTML 2.08%, GDShader 1.01% y JavaScript 0.96%." />
 
-**🍍 Pineapple Engine — Backend**
+<sub>Datos de mi repositorio público Poo-FinalProject, consultados el 2 de noviembre de 2026. La gráfica representa código publicado, no mi nivel de dominio; mis proyectos con Python y Flet no están reflejados aquí.</sub>
 
-Mi contribución al equipo está detrás de escena:
-me encargo del backend de nuestros proyectos de videojuegos.
+## <img src="assets/title-projects.png" width="100%" alt="04 — Co-op & side quests / Equipo y proyectos" />
 
-## > projects
+### 🍍 Pineapple Engine · modo cooperativo
 
-🎮 **[Poo-FinalProject](https://github.com/adic-JXL/Poo-FinalProject)**  
-Un vistazo a mi trabajo con Godot y GDScript.
+Formo parte del equipo y me encargo de toda la parte backend de nuestros proyectos de videojuegos.
 
----
+### 🎮 [Poo-FinalProject](https://github.com/adic-JXL/Poo-FinalProject) · proyecto con Godot
+
+Código de uno de mis proyectos con **Godot y GDScript**. Puedes explorar el repositorio y ver lo que voy construyendo.
+
+<a id="english"></a>
 
 <details>
-<summary><strong>🌐 English — About me</strong></summary>
+<summary><strong>EN / English — open player file</strong></summary>
 
-### > whoami
+### Hey, I'm Andres.
 
-Hi! I'm **Andres Issa**, a **Systems Engineering student**
-currently in my fourth semester.
+I'm in my **fourth semester of Systems Engineering**. I build websites and digital applications, with a strong focus on **Python and Flet**. I also work with **MySQL, Java, HTML, and CSS**.
 
-I build websites and digital applications, with a strong focus on
-**Python and Flet**. I also work with **MySQL, HTML, CSS, and Java**.
+I'm part of **Pineapple Engine**, a game development team, where I handle all **backend development**. For my personal projects, I make games with **Godot**.
 
-🍍 I'm part of **Pineapple Engine**, a game development team,
-where I handle all **backend development**.
+**Equipped tools:** Python · Flet · MySQL · Java · HTML · CSS · Godot · GDScript.
 
-🎮 In my personal projects, I build games with **Godot**.
+**Public code:** The chart above shows the language distribution by bytes in my public Poo-FinalProject repository, as of November 2, 2026. It is not a proficiency score and does not reflect my Python/Flet work.
 
-### > party_members
-
-**🍍 Pineapple Engine — Backend**
-
-My contribution happens behind the scenes:
-I handle the backend for our game projects.
-
-### > projects
-
-🎮 **[Poo-FinalProject](https://github.com/adic-JXL/Poo-FinalProject)**  
-A look at my work with Godot and GDScript.
+**Side quest:** [Poo-FinalProject →](https://github.com/adic-JXL/Poo-FinalProject)
 
 </details>
 
----
+<br />
 
-<p align="center">
-  <code>Diseñar. Programar. Jugar. Repetir.</code><br />
-  <code>Design. Code. Play. Repeat.</code>
-</p>
+<img src="assets/footer.png" width="100%" alt="Arriba, arriba, abajo, abajo, izquierda, derecha, izquierda, derecha, B, A. git commit: un intento más." />
